@@ -1,6 +1,6 @@
-# NOTE:
-## Assignment taken from online course material for "Computer Networking: A Top-Down Approach, 8th Edition" by Jim Kurose
-## Programming Assignment: "Distributed Asynchronous Distance Vector Routing" (using Bellman-Ford Shortest-Path Algorithm)
+## "Distributed Asynchronous Distance Vector Routing" (using Bellman-Ford Shortest-Path Algorithm)
+
+### NOTE: Assignment taken from online course material for "Computer Networking: A Top-Down Approach, 8th Edition" by Jim Kurose
 
 The routines you will write. For the basic part of the assignment, you are to write the following routines which will ``execute'' asynchronously within the emulated environment that we have written for this assignment.
 
